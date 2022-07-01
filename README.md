@@ -40,7 +40,7 @@ py manage.py runserver
 
 
 # Технологии:
-DRF, Docker, PostgreSQL, Pandas
+DRF, Docker, PostgreSQL...
 
 # Как проверять с помощью POSTMAN:
 
