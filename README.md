@@ -37,3 +37,7 @@ py manage.py migrate
 
 py manage.py runserver
 (python3 для linux)
+
+
+# Технологии:
+DRF, Docker, PostgreSQL, Pandas
