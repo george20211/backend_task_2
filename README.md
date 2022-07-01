@@ -30,7 +30,10 @@ docker-compose up -d --build
 ## Сделать миграции:
 
 py manage.py makemigrations
+
 py manage.py migrate
 
 ##Запуск:
+
 py manage.py runserver
+(python3 для linux)
