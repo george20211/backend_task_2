@@ -33,7 +33,7 @@ py manage.py makemigrations
 
 py manage.py migrate
 
-##Запуск:
+## Запуск:
 
 py manage.py runserver
 (python3 для linux)
