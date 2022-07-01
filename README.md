@@ -20,7 +20,7 @@ pip install -r requirements.txt
 
 ## База данных
 
-Если уже есть установленный Postgres - пропустить каманду с докером и настроить settings.py под себя.
+Если уже есть установленный Postgres - пропустить команду с докером и настроить settings.py под себя.
 Если нету Postgres, но есть Docker - выполнить команду:
 
 docker-compose up -d --build
