@@ -3,6 +3,7 @@
 
 winows:
 py -m venv env
+
 linux:
 python3 -m venv env
 
@@ -10,6 +11,7 @@ python3 -m venv env
 
 windows:
 .\env\Scripts\activate
+
 linux:
 source env/bin/activate
 
